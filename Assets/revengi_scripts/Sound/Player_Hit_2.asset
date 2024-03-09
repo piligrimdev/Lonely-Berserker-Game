@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f134488127ad09c47a2f84babd9d81e5, type: 3}
+  m_Name: Player_Hit_2
+  m_EditorClassIdentifier: 
+  name: Player_Hit_2
+  play_immediately: 0
+  clip: {fileID: 8300000, guid: fb012bc75fcfc2748a2f433fb4466c42, type: 3}
+  isLooping: 0
+  volume: 1
+  blend: 0
+  source: {fileID: 0}

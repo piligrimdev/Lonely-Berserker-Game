@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 83032d8690ad86547b436c59a82b41fb
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doors_Old_Wooden_1
+    second: {fileID: 2100000, guid: da9c7ef045a70ed4893ef0636ca302cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ampoule
+    second: {fileID: 2100000, guid: 57c76247efb3d134b8646c7f080c60eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arche
+    second: {fileID: 2100000, guid: 09b3caea2762fe0469e5c5c676278f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arche.001
+    second: {fileID: 2100000, guid: 8713c71195b8b81408220ea92a53ccfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arche.002
+    second: {fileID: 2100000, guid: 83b9134009e05e64db74b996e013aeac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arche.005
+    second: {fileID: 2100000, guid: dae8ae9358ff46d49bc319aefcffb869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: autel
+    second: {fileID: 2100000, guid: 634f6c8268fb7d646b202b3d365e4a31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banc
+    second: {fileID: 2100000, guid: d705b3d59c0f6e84a8a286caba2a283f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chain
+    second: {fileID: 2100000, guid: 5d2268d06f20b8540b1eac0c5ae05c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colonne
+    second: {fileID: 2100000, guid: 29b72d97b70c3814ebbc5633f16989ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: colonne-ext
+    second: {fileID: 2100000, guid: d832c548c2d41904498673af37704a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: debord-mur
+    second: {fileID: 2100000, guid: c46535f9940dbb847be3cfe5a70d05c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drap
+    second: {fileID: 2100000, guid: 940d7e53ae9ecf44ea854e3df8451e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estrade-centre
+    second: {fileID: 2100000, guid: 1f7c2ccfd415db7488f36c1db847874c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estrade-contour
+    second: {fileID: 2100000, guid: 11973864a0cdf9c4d81f18ef6fb42094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mur-bas
+    second: {fileID: 2100000, guid: f7a17ef6e091c2d4b99da1f923549ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mur-bas-ext
+    second: {fileID: 2100000, guid: c7d2f24f982c3e347b47ead960265c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mur-bas.002
+    second: {fileID: 2100000, guid: 7a8714930241526459c60631e0ea365e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mur-haut
+    second: {fileID: 2100000, guid: ceec79480aa7a0f408b12567bb15ee7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: or
+    second: {fileID: 2100000, guid: c965d9e5743967846a9af9553e62c52a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pied-autel
+    second: {fileID: 2100000, guid: 72a6666a258c2bf44a43b994fd532338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pied-colonne
+    second: {fileID: 2100000, guid: feca6eca7e1f635478ec6a4c632fb7bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sol
+    second: {fileID: 2100000, guid: 8810e3ecaec974e49b3bd727959c9d46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: verre-or
+    second: {fileID: 2100000, guid: 90f34eb4aa1c98a4faae2621dacbf83c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-bas
+    second: {fileID: 2100000, guid: 60a0aba7c5263704385b401d7e8c79d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-droite
+    second: {fileID: 2100000, guid: 45d89247ffcc0ed4380653159634d088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-fond
+    second: {fileID: 2100000, guid: b0c09ad97439ffe44b7622c6c969f2bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-fond.001
+    second: {fileID: 2100000, guid: ced5c5594fdad994f9db80dd11eeadd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-fond.002
+    second: {fileID: 2100000, guid: 83dbdf876591d01449b6fdb5e0e6794c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-fond.003
+    second: {fileID: 2100000, guid: a2ba2512c23f5664f9ffa93d86ebd013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-fond.004
+    second: {fileID: 2100000, guid: f8626186ef94d1f438ae84c6fc3c9b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-fond.005
+    second: {fileID: 2100000, guid: 71ff085a5a7e4774f96700d3316f6170, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vitrail-gauche
+    second: {fileID: 2100000, guid: 685efeeff944ca64c83f87720d824c2b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
